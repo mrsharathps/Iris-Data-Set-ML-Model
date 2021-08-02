@@ -1,0 +1,2 @@
+# Iris-Data-Set-ML-Model
+We are e trying to use the attributes of flower to predict the species of the flower. Specifically, we are trying to use the sepal length &amp; width, Petal length &amp; width to predict of the flower is setosa, versicolor, virginica  Attribute Information:  sepal length in cm sepal width in cm petal length in cm petal width in cm class: -- Iris Setosa -- Iris Versicolour -- Iris Virginica  Repository: https://archive.ics.uci.edu/ml/datasets/iris
